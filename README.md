@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lennaertdegraaf
-- 👀 I’m interested in rowing, sailing, hicking, cooking and parenting. 
+- 👀 I’m interested in rowing, sailing, hicking, cooking. 
 - 🌱 I’m currently learning to create a personal blog site.
 - 💞️ I’m looking to collaborate on blog items.
 - 📫 How to reach me ... just send me a pull request.
